@@ -1,0 +1,2 @@
+contador = contador + 3indice
+if (v == 0) return u;
